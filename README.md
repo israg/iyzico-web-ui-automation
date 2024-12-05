@@ -129,7 +129,7 @@ Replace `@tagName` with the desired tag from your Cucumber feature files.
 
 ## Example Allure Report
 
-![Allure Report Screenshot](src/test/resources/screenshots/allure-report-example.png)
+![Allure Report Screenshot](src/test/resources/screenshots/allure-report-examle.png)
 
 ---
 
