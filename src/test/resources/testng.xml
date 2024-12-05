@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Cucumber Suite">
+    <test name="Cucumber Tests">
+        <classes>
+            <class name="TestRunner" />
+        </classes>
+    </test>
+</suite>
+

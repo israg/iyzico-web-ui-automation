@@ -1,0 +1,7 @@
+[
+  {
+    "key": "productList",
+    "value": "//img[@class='product_second_img']",
+    "type": "xpath"
+  }
+]

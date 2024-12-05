@@ -1,0 +1,12 @@
+[
+  {
+    "key": "addBasketButton",
+    "value": "//button[@class='single_add_to_cart_button button alt']",
+    "type": "xpath"
+  },
+  {
+    "key": "showBasketButton",
+    "value": "ql_cart-btn",
+    "type": "className"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "goToPaymentPageButton",
+    "value": "//a[@class='checkout-button button alt wc-forward']",
+    "type": "xpath"
+  },
+  {
+    "key": "DebitOrCreditCard",
+    "value": "//li[@class='wc_payment_method payment_method_iyzico']",
+    "type": "xpath"
+  },
+  {
+    "key": "PayDebitOrCreditCard",
+    "value": "woocommerce_checkout_place_order",
+    "type": "name"
+  }
+]

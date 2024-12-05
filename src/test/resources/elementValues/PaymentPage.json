@@ -1,0 +1,52 @@
+[
+  {
+    "key": "payButton",
+    "value": "iyz-payment-button",
+    "type": "id"
+  },
+  {
+    "key": "cardHolderNameInput",
+    "value": "ccname",
+    "type": "id"
+  },
+  {
+    "key": "cardNumberInput",
+    "value": "ccnumber",
+    "type": "id"
+  },
+  {
+    "key": "expiryDateInput",
+    "value": "ccexp",
+    "type": "id"
+  },
+  {
+    "key": "cvvInput",
+    "value": "cccvc",
+    "type": "id"
+  },
+  {
+    "key": "siparisAlindi",
+    "value": "page-title",
+    "type": "className"
+  },
+  {
+    "key": "smsCodeInput",
+    "value": "smsCode",
+    "type": "id"
+  },
+  {
+    "key": "smsText",
+    "value": "help-block",
+    "type": "className"
+  },
+  {
+    "key": "submitButton",
+    "value": "submitBtn",
+    "type": "id"
+  },
+  {
+    "key": "closeButton",
+    "value": "//button[contains(text(), 'Hayır, Teşekkürler')]",
+    "type": "xpath"
+  }
+]
